@@ -1,5 +1,5 @@
 # Mirage-2000-Mods
-Mods for the RAZBAM mirage 2000c
+Mods for the RAZBAM Mirage 2000C, adding weapons and such 
 
 
 M-2000C.lua goes in DCS directory /CoreMods/Aircraft/
