@@ -7,6 +7,10 @@ M-2000C.lua goes in DCS directory /CoreMods/Aircraft/
   
 PCA.lua goes in DCS directory /Mods/aircraft/M-2000C/Cockpit/Scripts
 
+
+**Use a damn mod loader**
+
+
 Weapons added: 
 
 AGM-84D (Not really functional)
