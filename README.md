@@ -10,10 +10,13 @@ PCA.lua goes in DCS directory /Mods/aircraft/M-2000C/Cockpit/Scripts
 Weapons added: 
 
 AGM-84D (Not really functional)
+  - Is supposed to impact at selected steerpoint, falls short by quite a distance.
 
-
-MICA IR/RF (Both function as FOX1 with same parameters as S530D)
-
+MICA IR/RF 
+  - Both must be launched as a FOX1
+  - However MICA IR appears to function like a FOX2
+  - MICA RF seems to function as a FOX3. 
+  - Neither seem to have very accurate range/tracking behaviour.
 
 2000lb JDAM
   - If launched within range, will impact at selected steerpoint. 
