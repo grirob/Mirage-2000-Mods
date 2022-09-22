@@ -25,10 +25,14 @@ MICA IR/RF
 Spanish Br.250 GP Bombs from F1
 
 
-R73 AAM (Same as MICA functionality)
+R73 AAM 
+  - Same as MICA IR
 
 
-Litening TGP (Nonfunctional)
+Litening TGP 
+  - Nonfunctional
 
 
-HARM (Works a bit like a Shrike)
+HARM 
+  - Works a bit like a Shrike (Homes on closest radar source)
+
